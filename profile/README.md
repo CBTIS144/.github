@@ -55,9 +55,9 @@ Aquí destacamos a los alumnos con mayor impacto en nuestros repositorios:
 | Red Social | Link |
 | :--- | :--- |
 | **🌍 Web Oficial** | [cbtis144.edu.mx](http://www.cbtis144.edu.mx) |
+| **🌍 Vinculación** | [dgeti-sivi.com.mx](dgeti-sivi.com.mx)|
 | **📘 Facebook** | [CBTIS 144 Oficial](https://facebook.com/cbtis144) |
-| **📧 Email** | `vinculacion@cbtis144.edu.mx` |
-
+| **📧 Email** | `cbtis144.vinculacion@dgeti.sems.gob.mx` |
 ---
 
 <p align="center">
